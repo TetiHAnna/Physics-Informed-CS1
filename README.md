@@ -76,9 +76,7 @@ Nosenko, T. et al. (2025). Algorithms and Data Structures as the Foundation of A
 Citation
 If you use this methodology or code in your research or teaching, please cite the original paper and the accompanying textbook:
 
-Paper:
 
-Nosenko, T. (2025). [Insert Your Paper Title Here]. [Journal Name].
 
 Textbook:
 
