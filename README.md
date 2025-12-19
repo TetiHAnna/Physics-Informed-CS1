@@ -72,7 +72,8 @@ If you use this methodology or code in your research or teaching, please cite th
 
 Textbook:
 
-Nosenko, T. et al. (2025). Algorithms and Data Structures as the Foundation of AI [Study guide]. Borys Grinchenko Kyiv Metropolitan University.
+Nosenko, T. I., Mashkina, I. V., & Yaskevych, V. O. (2025). Application of algorithms and data structures in artificial intelligence: A textbook. Borys Grinchenko Kyiv Metropolitan University.
+
 Citation
 If you use this methodology or code in your research or teaching, please cite the original paper and the accompanying textbook:
 
